@@ -1,0 +1,24 @@
+---
+layout:       post
+title:        "博客部署完了。"
+author:       "zhaopingxiao"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
+花了一点时间，把博客部署完了。
+
+起初是，我了解了github的pages功能，然后心血来潮想写个个人主页，
+
+但是，怎么写都好怪。。。
+
+直到看到了Hux的博客项目。
+
+第一个帖子是Hux在2014年写的，12年前，
+
+可以说这个博客比我年纪还大，我就是2014年出生的，11岁。
+
+因为我是直接fork下来的，所以还有Hux的博客留下来的东西，很多都不会改，干脆其他的不改了。。。
