@@ -5,8 +5,7 @@ author:       "zhaopingxiao"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - Github
 ---
 
 花了一点时间，把博客部署完了。
